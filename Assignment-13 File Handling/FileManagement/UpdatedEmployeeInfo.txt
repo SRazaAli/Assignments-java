@@ -1,0 +1,3 @@
+Muhammad Raza,CS,1234567890,Manager,50000,Active
+Muskan Khan,CS,9876543210,Assistant,45000,Active
+Ali,IT,5555555555,Developer,60000,Inactive
